@@ -15,7 +15,7 @@ Our work on the resilience of the Austrian healthcare system is groundbreaking a
 Lastly, with our work "From alternative conceptions of honesty to alternative facts in communications by US politicians" published in Nature Human Behaviour, we provide a completely new measurement instrument to detect "belief-speaking" and "fact-speaking" language components in text. Using these instruments, we provide a new explanation for the spread of misinformation by political elites. This research line is also continued by the EU-funded PRODEMINFO project where I continue to collaborate with a large number of interdisciplinary researchers on misinformation related projects and a number of publications are forthcoming.
 
 # Publications
-"*" Denotes equal contributions.
+\* Denotes equal contributions.
 ## Peer reviewed publications
 * Jana Lasser, Timotheus Hell, David Garcia, [Assessment of the Effectiveness of Omicron Transmission Mitigation Strategies for European Universities Using an Agent-Based Network Model](https://doi.org/10.1093/cid/ciac340), *Journal of Clinical Infectious Diseases* (2022).
 * Jana Lasser, Segun Taofeek Aroyehun, Fabio Carrella, Almog Simchon, David Garcia, Stephan Lewandowsky, [From Alternative conceptions of honesty to alternative facts in communications by U.S. politicians](https://doi.org/10.1038/s41562-023-01691-w), *Nature Human Behaviour* (2023).
